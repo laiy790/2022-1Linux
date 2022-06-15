@@ -7,6 +7,7 @@ sudo curl -L "[https://github.com/docker/compose/releases/download/1.29.2/docker
 sudo chmod +x /usr/local/bin/docker-compose
 
 [root@weinote user]# systemctl start docker
+
 [root@weinote user]# systemctl status docker
 
 [https://github.com/jumpserver/Dockerfile](https://github.com/jumpserver/Dockerfile)
@@ -31,10 +32,19 @@ docker-compose -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f dock
 [root@weinote user]# docker-compose -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f docker-compose.yml up
 ```
 
-……
+
 
 ---
+開啟瀏覽器(IP)
+創建用戶Tom(user)
+創建系統用戶(user,user,tmp)
+創建系統特權用戶(root,root,tmp)
+創建資產(新增主機)
+創建資產授權規則
 
+登出使用Tom登入
+
+---
 +gmail
 
 [總Page](https://github.com/laiy790/2022Linux/blob/main/Note.md)
