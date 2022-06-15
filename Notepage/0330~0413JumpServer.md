@@ -36,3 +36,5 @@ docker-compose -f docker-compose-redis.yml -f docker-compose-mariadb.yml -f dock
 ---
 
 +gmail
+
+[總Page](https://github.com/laiy790/2022Linux/blob/main/Note.md)

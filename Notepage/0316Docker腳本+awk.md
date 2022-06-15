@@ -178,3 +178,5 @@ linda
 peter
 rita
 cora
+
+[總Page](https://github.com/laiy790/2022Linux/blob/main/Note.md)

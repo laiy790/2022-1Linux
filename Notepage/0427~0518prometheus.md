@@ -13,3 +13,5 @@
 [START](0427~0518prometheus%20c0d1806672974ae5a7f0ff0d18295244/START%20b479e161ac51438a80458e1c0b5069b2.md)
 
 [Grafana+Pushgateway](0427~0518prometheus%20c0d1806672974ae5a7f0ff0d18295244/Grafana+Pushgateway%2070b806f189384b5eb1ccf1752b903cea.md)
+
+[總Page](https://github.com/laiy790/2022Linux/blob/main/Note.md)

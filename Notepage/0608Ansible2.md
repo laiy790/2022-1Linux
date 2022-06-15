@@ -163,3 +163,5 @@ ansible  servers -m setup | grep cpu
 (圖片少了r)
 
 ![Untitled](0608%201486ec88f2f84124b98a28461827b882/Untitled%2028.png)
+
+[總Page](https://github.com/laiy790/2022Linux/blob/main/Note.md)

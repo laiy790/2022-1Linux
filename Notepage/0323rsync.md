@@ -183,3 +183,5 @@ user
 chomd 600 /etc/rsync_vuser_passwd
 ls
 rsync -avz --progress --password-file=/etc/rsync_vuser.passwd testdir/ vuser@192.168.56.@@@::mod1
+
+[總Page](https://github.com/laiy790/2022Linux/blob/main/Note.md)
